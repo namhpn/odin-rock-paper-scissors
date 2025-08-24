@@ -1,4 +1,3 @@
-##The Odin Project
 #Rock Paper Scissors
 
-This is an semi-ending mini-project from TOP.
+This is an JS semi-ending mini-project from TOP.
